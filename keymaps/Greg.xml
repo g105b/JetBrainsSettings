@@ -46,6 +46,9 @@
   </action>
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
+  <action id="JumpToLastChange">
+    <keyboard-shortcut first-keystroke="alt minus" />
+  </action>
   <action id="JumpToLastWindow" />
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="ctrl numpad5" />
