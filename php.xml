@@ -4,4 +4,7 @@
       <PhpCSConfiguration />
     </phpcs_settings>
   </component>
+  <component name="PhpSmartKeysConfiguration">
+    <option name="selectVariableNameWithoutDollar" value="true" />
+  </component>
 </application>
