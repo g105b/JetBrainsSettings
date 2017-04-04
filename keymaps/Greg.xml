@@ -1,4 +1,5 @@
 <keymap version="1" name="Greg" parent="Default for XWin">
+  <action id="BaseOnThisFunction" />
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
@@ -62,7 +63,9 @@
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
-  <action id="Replace" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowRight" />
   <action id="ResizeToolWindowUp" />
@@ -82,6 +85,8 @@
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="TableResult.GrowSelection" />
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Push" />
 </keymap>
