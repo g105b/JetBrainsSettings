@@ -91,4 +91,5 @@
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Push" />
+  <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.CyclicSplitLayoutChangeAction" />
 </keymap>
