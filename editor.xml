@@ -1,5 +1,19 @@
 <application>
+  <component name="EditorSettings">
+    <option name="IS_WHITESPACES_SHOWN" value="true" />
+    <option name="IS_LEADING_WHITESPACES_SHOWN" value="false" />
+    <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
+    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+    <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
+  </component>
   <component name="SqlEditorOptions">
     <option name="qualificationType" value="On collisions" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="insertQuotesForAttributeValue" value="false" />
   </component>
 </application>
