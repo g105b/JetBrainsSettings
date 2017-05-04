@@ -1,9 +1,0 @@
-<application>
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="37746754-e4d5-4a2d-a133-69592e2a1d77" name="MBM-CRM" url="http://localhost:8080">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-    </option>
-  </component>
-</application>
