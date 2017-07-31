@@ -1,9 +1,0 @@
-<application>
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="286e5f9d-0a67-4c90-9d55-bc1f165e1d3b" name="Eighty eighty" url="http://localhost:8080">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-    </option>
-  </component>
-</application>

@@ -1,8 +1,0 @@
-<application>
-  <component name="CodeInsightSettings">
-    <option name="SMART_INDENT_ON_ENTER" value="false" />
-    <option name="INSERT_BRACE_ON_ENTER" value="false" />
-    <option name="JAVADOC_STUB_ON_ENTER" value="false" />
-    <option name="REFORMAT_ON_PASTE" value="1" />
-  </component>
-</application>

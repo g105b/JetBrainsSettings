@@ -1,9 +1,0 @@
-<toolSet name="External Tools">
-  <tool name="PHP CS Fixer (PHP.Gt)" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="$USER_HOME$/Code/PhpGt/PHP-CS-Fixer/php-cs-fixer" />
-      <option name="PARAMETERS" value="fix $FilePath$ --rules=@PSR2,custom_brace,-single_blank_line_at_eof,newline_before_else_elseif,no_space_after_php_method,no_indent_new_line_param_php_method,custom_end_tag_php,-no_closing_tag,no_singleline_whitespace_before_semicolons,-visibility_required,no_whitespace_before_comma_in_array,indent_after_comma_newline_in_array,ternary_operator_spaces,unary_operator_spaces,binary_operator_spaces,custom_param_indent,switch_case_indentation" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Code/PhpGt/PHP-CS-Fixer" />
-    </exec>
-  </tool>
-</toolSet>
