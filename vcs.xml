@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/g105b/rinkydink.link.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/EvolutionFunding/MBM-CRM.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\g105b\Code\g105b" />
+    <option name="cloneParentDir" value="C:\Users\g105b\Code\EvolutionFunding" />
   </component>
 </application>
