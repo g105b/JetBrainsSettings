@@ -1,1 +1,8 @@
-<keymap version="1" name="Greg" parent="Visual Studio" />
+<keymap version="1" name="Greg" parent="Visual Studio">
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+</keymap>
