@@ -25,19 +25,6 @@
     <option name="SPACE_AROUND_ASSIGNMENT_IN_DECLARE" value="true" />
     <option name="SPACE_AFTER_COLON_IN_RETURN_TYPE" value="false" />
   </PHPCodeStyleSettings>
-  <SqlCodeStyleSettings>
-    <option name="NEW_LINE_BEFORE_JOIN_CONDITION" value="true" />
-    <option name="NEW_LINE_BEFORE_QUERY_INSIDE_DML" value="true" />
-    <option name="KEYWORD_CASE" value="1" />
-    <option name="TYPE_CASE" value="1" />
-  </SqlCodeStyleSettings>
-  <codeStyleSettings language="Blade">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="8" />
-      <option name="TAB_SIZE" value="8" />
-      <option name="USE_TAB_CHARACTER" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
   <codeStyleSettings language="CSS">
     <indentOptions>
       <option name="INDENT_SIZE" value="8" />
@@ -89,13 +76,6 @@
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>
-  <codeStyleSettings language="LESS">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="8" />
-      <option name="TAB_SIZE" value="8" />
-      <option name="USE_TAB_CHARACTER" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="RIGHT_MARGIN" value="80" />
     <option name="CLASS_BRACE_STYLE" value="1" />
@@ -132,13 +112,6 @@
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>
-  <codeStyleSettings language="SASS">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="8" />
-      <option name="TAB_SIZE" value="8" />
-      <option name="USE_TAB_CHARACTER" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
   <codeStyleSettings language="SCSS">
     <indentOptions>
       <option name="INDENT_SIZE" value="8" />
@@ -147,21 +120,6 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="SQL">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="8" />
-      <option name="CONTINUATION_INDENT_SIZE" value="8" />
-      <option name="TAB_SIZE" value="8" />
-      <option name="USE_TAB_CHARACTER" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="Twig">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="8" />
-      <option name="TAB_SIZE" value="8" />
-      <option name="USE_TAB_CHARACTER" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="TypeScript">
     <indentOptions>
       <option name="INDENT_SIZE" value="8" />
       <option name="CONTINUATION_INDENT_SIZE" value="8" />

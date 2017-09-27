@@ -1,1 +1,20 @@
-<keymap version="1" name="Greg" parent="Visual Studio" />
+<keymap version="1" name="Greg" parent="Visual Studio">
+  <action id="GotoTest" />
+  <action id="Images.ShowThumbnails" />
+  <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="ctrl numpad2" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="ctrl numpad6" />
+  </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
+  <action id="ToggleBookmarkWithMnemonic" />
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="ctrl f11" />
+  </action>
+  <action id="UnsplitAll">
+    <keyboard-shortcut first-keystroke="ctrl numpad5" />
+  </action>
+</keymap>
