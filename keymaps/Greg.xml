@@ -1,6 +1,9 @@
 <keymap version="1" name="Greg" parent="Visual Studio">
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
+  <action id="JumpToLastChange">
+    <keyboard-shortcut first-keystroke="alt minus" />
+  </action>
   <action id="MoveTabDown">
     <keyboard-shortcut first-keystroke="ctrl numpad2" />
   </action>
