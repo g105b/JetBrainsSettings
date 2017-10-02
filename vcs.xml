@@ -22,8 +22,12 @@
           <option name="url" value="https://github.com/BrightFlair/clear.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/EvolutionFunding/MBM-CRM" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\g105b\Code\BrightFlair" />
+    <option name="cloneParentDir" value="C:\Users\Greg\Code\EvolutionFunding" />
   </component>
 </application>
