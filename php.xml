@@ -298,7 +298,7 @@
   </component>
   <component name="PhpUnit">
     <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="98073aa2-3fb6-4e8d-8277-637b7de7fa00" load_method="CUSTOM_LOADER" custom_loader_path="/opt/project/vendor/autoload.php" phpunit_phar_path="" />
+      <phpunit_by_interpreter interpreter_id="98073aa2-3fb6-4e8d-8277-637b7de7fa00" load_method="CUSTOM_LOADER" configuration_file_path="/opt/project/test/unit/phpunit.xml" custom_loader_path="/opt/project/vendor/autoload.php" phpunit_phar_path="" use_configuration_file="true" />
     </phpunit_settings>
   </component>
 </application>
