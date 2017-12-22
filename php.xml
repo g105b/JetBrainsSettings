@@ -1,8 +1,8 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="docker://phpgt/php:7.1-cli-dev/php" id="98073aa2-3fb6-4e8d-8277-637b7de7fa00" name="Docker" debugger_id="php.debugger.XDebug">
-        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="phpgt/php:7.1-cli-dev" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      <interpreter home="docker://phpgt/php-7.1-cli-xdebug/php" id="98073aa2-3fb6-4e8d-8277-637b7de7fa00" name="Docker" debugger_id="php.debugger.XDebug">
+        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="phpgt/php-7.1-cli-xdebug" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
     </interpreters>
   </component>
