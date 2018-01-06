@@ -296,4 +296,9 @@
       </interpreter>
     </phpInfoCache>
   </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <phpunit_by_interpreter interpreter_id="db0709d6-68f9-4057-b7a0-7b5759b9336f" load_method="CUSTOM_LOADER" custom_loader_path="/opt/project/vendor/autoload.php" phpunit_phar_path="" />
+    </phpunit_settings>
+  </component>
 </application>
