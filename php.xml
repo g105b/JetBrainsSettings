@@ -1,4 +1,9 @@
 <application>
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter home="C:\php\php.exe" id="88db334f-5f4a-42bb-b4f3-2270ba61765b" name="PHP" debugger_id="php.debugger.XDebug" />
+    </interpreters>
+  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP">
