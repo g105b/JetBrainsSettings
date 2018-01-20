@@ -1,7 +1,7 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="C:\php\7.1\php.exe" id="92c9194c-fd91-4cf0-8e56-9a4a25f17215" name="PHP" debugger_id="php.debugger.XDebug" />
+      <interpreter home="C:\php\7.1\php.exe" id="53c9f9cf-6592-4b33-8cfd-4d12440c5255" name="PHP" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
@@ -84,6 +84,16 @@
             <configuration_option name="max_input_nesting_level" value="64" />
             <configuration_option name="max_input_time" value="-1" />
             <configuration_option name="max_input_vars" value="1000" />
+            <configuration_option name="mbstring.detect_order" value="" />
+            <configuration_option name="mbstring.encoding_translation" value="0" />
+            <configuration_option name="mbstring.func_overload" value="0" />
+            <configuration_option name="mbstring.http_input" value="" />
+            <configuration_option name="mbstring.http_output" value="" />
+            <configuration_option name="mbstring.http_output_conv_mimetypes" value="^(text/|application/xhtml\+xml)" />
+            <configuration_option name="mbstring.internal_encoding" value="" />
+            <configuration_option name="mbstring.language" value="neutral" />
+            <configuration_option name="mbstring.strict_detection" value="0" />
+            <configuration_option name="mbstring.substitute_character" value="" />
             <configuration_option name="mcrypt.algorithms_dir" value="" />
             <configuration_option name="mcrypt.modes_dir" value="" />
             <configuration_option name="memory_limit" value="128M" />
@@ -99,6 +109,8 @@
             <configuration_option name="mysqlnd.sha256_server_public_key" value="" />
             <configuration_option name="mysqlnd.trace_alloc" value="" />
             <configuration_option name="open_basedir" value="" />
+            <configuration_option name="openssl.cafile" value="" />
+            <configuration_option name="openssl.capath" value="" />
             <configuration_option name="output_buffering" value="0" />
             <configuration_option name="output_encoding" value="" />
             <configuration_option name="output_handler" value="" />
@@ -261,8 +273,10 @@
             <extension name="iconv" />
             <extension name="json" />
             <extension name="libxml" />
+            <extension name="mbstring" />
             <extension name="mcrypt" />
             <extension name="mysqlnd" />
+            <extension name="openssl" />
             <extension name="pcre" />
             <extension name="readline" />
             <extension name="session" />
