@@ -1,15 +1,15 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="C:\php\php.exe" id="5f10392e-2a45-4132-b332-05110c2152b6" name="PHP" debugger_id="php.debugger.XDebug" />
+      <interpreter home="C:\php\7.1\php.exe" id="53c9f9cf-6592-4b33-8cfd-4d12440c5255" name="PHP" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP">
-        <phpinfo binary_type="PHP" php_cgi="C:\php\php-cgi.exe" php_cli="C:\php\php.exe" path_separator=";" version="7.1.13">
+        <phpinfo binary_type="PHP" php_cgi="C:\php\7.1\php-cgi.exe" php_cli="C:\php\7.1\php.exe" path_separator=";" version="7.1.13">
           <additional_php_ini />
-          <configuration_file>C:\php\php.ini</configuration_file>
+          <configuration_file>C:\php\7.1\php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
             <configuration_option name="allow_url_fopen" value="1" />
