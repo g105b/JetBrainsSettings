@@ -1,12 +1,12 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="C:\php\7.1\php.exe" id="92e9f8b2-f229-419a-8924-261e19c0766a" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
+      <interpreter home="C:\php\7.1\php.exe" id="53c9f9cf-6592-4b33-8cfd-4d12440c5255" name="PHP" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 7.1">
+      <interpreter name="PHP">
         <phpinfo binary_type="PHP" php_cgi="C:\php\7.1\php-cgi.exe" php_cli="C:\php\7.1\php.exe" path_separator=";" version="7.1.13">
           <additional_php_ini />
           <configuration_file>C:\php\7.1\php.ini</configuration_file>
@@ -84,6 +84,16 @@
             <configuration_option name="max_input_nesting_level" value="64" />
             <configuration_option name="max_input_time" value="-1" />
             <configuration_option name="max_input_vars" value="1000" />
+            <configuration_option name="mbstring.detect_order" value="" />
+            <configuration_option name="mbstring.encoding_translation" value="0" />
+            <configuration_option name="mbstring.func_overload" value="0" />
+            <configuration_option name="mbstring.http_input" value="" />
+            <configuration_option name="mbstring.http_output" value="" />
+            <configuration_option name="mbstring.http_output_conv_mimetypes" value="^(text/|application/xhtml\+xml)" />
+            <configuration_option name="mbstring.internal_encoding" value="" />
+            <configuration_option name="mbstring.language" value="neutral" />
+            <configuration_option name="mbstring.strict_detection" value="0" />
+            <configuration_option name="mbstring.substitute_character" value="" />
             <configuration_option name="mcrypt.algorithms_dir" value="" />
             <configuration_option name="mcrypt.modes_dir" value="" />
             <configuration_option name="memory_limit" value="128M" />
@@ -99,6 +109,8 @@
             <configuration_option name="mysqlnd.sha256_server_public_key" value="" />
             <configuration_option name="mysqlnd.trace_alloc" value="" />
             <configuration_option name="open_basedir" value="" />
+            <configuration_option name="openssl.cafile" value="" />
+            <configuration_option name="openssl.capath" value="" />
             <configuration_option name="output_buffering" value="0" />
             <configuration_option name="output_encoding" value="" />
             <configuration_option name="output_handler" value="" />
@@ -191,9 +203,6 @@
             <configuration_option name="xdebug.filename_format" value="" />
             <configuration_option name="xdebug.force_display_errors" value="0" />
             <configuration_option name="xdebug.force_error_reporting" value="0" />
-            <configuration_option name="xdebug.gc_stats_enable" value="0" />
-            <configuration_option name="xdebug.gc_stats_output_dir" value="C:\Windows\Temp" />
-            <configuration_option name="xdebug.gc_stats_output_name" value="gcstats.%p" />
             <configuration_option name="xdebug.halt_level" value="0" />
             <configuration_option name="xdebug.idekey" value="" />
             <configuration_option name="xdebug.max_nesting_level" value="256" />
@@ -243,7 +252,7 @@
             <configuration_option name="zlib.output_handler" value="" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.6.0">
+            <debugger_info debugger="xdebug" debugger_version="2.6.0beta1">
               <debug_extensions />
             </debugger_info>
           </debuggers>
@@ -264,8 +273,10 @@
             <extension name="iconv" />
             <extension name="json" />
             <extension name="libxml" />
+            <extension name="mbstring" />
             <extension name="mcrypt" />
             <extension name="mysqlnd" />
+            <extension name="openssl" />
             <extension name="pcre" />
             <extension name="readline" />
             <extension name="session" />
