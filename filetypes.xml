@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping pattern="gt-serve" type="PHP" />
       <mapping pattern="build" type="PHP" />
+      <mapping pattern="gt-build" type="PHP" />
+      <mapping pattern="gt-run" type="PHP" />
       <mapping pattern="bin/build" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
     </extensionMap>
