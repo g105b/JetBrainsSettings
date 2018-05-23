@@ -32,6 +32,7 @@
     <option name="ALIGN_EQ_INSIDE_SET_CLAUSE" value="false" />
     <option name="NEW_LINE_BEFORE_JOIN_CONDITION" value="true" />
     <option name="INDENT_JOIN" value="false" />
+    <option name="INDENT_JOIN_CONDITION" value="false" />
     <option name="KEYWORD_CASE" value="1" />
   </SqlCodeStyleSettings>
   <codeStyleSettings language="CSS">
