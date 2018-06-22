@@ -71,7 +71,11 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@github.com:EvolutionFunding/VRM.git" />
+          <option name="url" value="https://github.com/WebEngineApps/Confab.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/EvolutionFunding/EvoToolkitLibrary.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
