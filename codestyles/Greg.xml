@@ -51,6 +51,10 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
+    <option name="CLASS_BRACE_STYLE" value="1" />
+    <option name="METHOD_BRACE_STYLE" value="1" />
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="ALIGN_MULTILINE_FOR" value="false" />
     <indentOptions>
       <option name="INDENT_SIZE" value="8" />
       <option name="CONTINUATION_INDENT_SIZE" value="8" />
