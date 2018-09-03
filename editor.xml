@@ -5,4 +5,7 @@
     <option name="LINE_SPACING" value="1.5" />
     <option name="USE_LIGATURES" value="true" />
   </component>
+  <component name="XmlEditorOptions">
+    <option name="insertQuotesForAttributeValue" value="false" />
+  </component>
 </application>
