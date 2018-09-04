@@ -62,6 +62,9 @@
   <action id="ExternalJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
   </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift ctrl b" />
   </action>
@@ -117,6 +120,10 @@
   </action>
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="shift ctrl comma" />
+  </action>
+  <action id="Vcs.Log.FocusTextFilter" />
+  <action id="Vcs.UpdateProject">
+    <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
   <action id="ViewSource" />
 </keymap>
