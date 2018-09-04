@@ -1,44 +1,6 @@
 <code_scheme name="Default" version="173">
-  <option name="OTHER_INDENT_OPTIONS">
-    <value>
-      <option name="INDENT_SIZE" value="8" />
-      <option name="TAB_SIZE" value="8" />
-      <option name="USE_TAB_CHARACTER" value="true" />
-    </value>
-  </option>
-  <codeStyleSettings language="JSON">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="8" />
-      <option name="TAB_SIZE" value="8" />
-      <option name="USE_TAB_CHARACTER" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="JavaScript">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="8" />
-      <option name="CONTINUATION_INDENT_SIZE" value="8" />
-      <option name="TAB_SIZE" value="8" />
-      <option name="USE_TAB_CHARACTER" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
   <codeStyleSettings language="PHP">
-    <option name="SPACE_BEFORE_IF_PARENTHESES" value="false" />
-    <option name="SPACE_BEFORE_WHILE_PARENTHESES" value="false" />
-    <option name="SPACE_BEFORE_FOR_PARENTHESES" value="false" />
-    <option name="SPACE_BEFORE_CATCH_PARENTHESES" value="false" />
-    <option name="SPACE_BEFORE_SWITCH_PARENTHESES" value="false" />
     <indentOptions>
-      <option name="INDENT_SIZE" value="8" />
-      <option name="CONTINUATION_INDENT_SIZE" value="8" />
-      <option name="TAB_SIZE" value="8" />
-      <option name="USE_TAB_CHARACTER" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="SQL">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="8" />
-      <option name="CONTINUATION_INDENT_SIZE" value="8" />
-      <option name="TAB_SIZE" value="8" />
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>

@@ -1,8 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myOverrideIdeShortcuts" value="false" />
-    <option name="myShellPath" value="&quot;C:\Program Files\Git\bin\sh.exe&quot; -login -i" />
-    <option name="mySoundBell" value="false" />
-    <option name="myTabName" value="Bash" />
+    <option name="myShellPath" value="C:\Program Files\Git\bin\bash.exe" />
   </component>
 </application>
