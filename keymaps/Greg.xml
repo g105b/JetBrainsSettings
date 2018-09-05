@@ -68,6 +68,7 @@
   <action id="Github.Open.In.Browser">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
+  <action id="GotoTest" />
   <action id="GotoTypeDeclaration">
     <mouse-shortcut keystroke="shift control button1" />
   </action>
@@ -77,6 +78,7 @@
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
+  <action id="Images.ShowThumbnails" />
   <action id="IntroduceParameter" />
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="ctrl alt p" />
@@ -88,11 +90,15 @@
     <keyboard-shortcut first-keystroke="shift ctrl period" />
   </action>
   <action id="QuickActionPopup" />
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f9" />
     <keyboard-shortcut first-keystroke="shift ctrl minus" />
   </action>
   <action id="Run" />
+  <action id="RunDashboard.ShowConfigurations" />
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f7" />
     <keyboard-shortcut first-keystroke="shift ctrl equals" />
