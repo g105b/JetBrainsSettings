@@ -8,7 +8,9 @@
   </option>
   <option name="RIGHT_MARGIN" value="80" />
   <PHPCodeStyleSettings>
+    <option name="FIELDS_DEFAULT_VISIBILITY" value="protected" />
     <option name="SPACE_BEFORE_CLOSURE_LEFT_PARENTHESIS" value="false" />
+    <option name="SPACE_AFTER_COLON_IN_RETURN_TYPE" value="false" />
   </PHPCodeStyleSettings>
   <codeStyleSettings language="CSS">
     <indentOptions>
