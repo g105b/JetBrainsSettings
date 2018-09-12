@@ -101,10 +101,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl minus" />
   </action>
   <action id="Run" />
-  <action id="RunDashboard.ShowConfigurations" />
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="RunDashboard.ShowConfigurations" />
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f7" />
     <keyboard-shortcut first-keystroke="shift ctrl equals" />
