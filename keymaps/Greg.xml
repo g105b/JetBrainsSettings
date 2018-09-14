@@ -62,12 +62,16 @@
   <action id="ExternalJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
   </action>
-  <action id="FindNext">
-    <keyboard-shortcut first-keystroke="f3" />
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift f3" />
   </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift ctrl b" />
   </action>
+  <action id="Github.Open.In.Browser">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
+  <action id="GotoTest" />
   <action id="GotoTypeDeclaration">
     <mouse-shortcut keystroke="shift control button1" />
   </action>
@@ -77,6 +81,7 @@
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
+  <action id="Images.ShowThumbnails" />
   <action id="IntroduceParameter" />
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="ctrl alt p" />
@@ -88,11 +93,18 @@
     <keyboard-shortcut first-keystroke="shift ctrl period" />
   </action>
   <action id="QuickActionPopup" />
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f9" />
     <keyboard-shortcut first-keystroke="shift ctrl minus" />
   </action>
   <action id="Run" />
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="RunDashboard.ShowConfigurations" />
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f7" />
     <keyboard-shortcut first-keystroke="shift ctrl equals" />
@@ -121,9 +133,8 @@
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="shift ctrl comma" />
   </action>
-  <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.UpdateProject">
-    <keyboard-shortcut first-keystroke="ctrl l" />
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
   <action id="ViewSource" />
 </keymap>
