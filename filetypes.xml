@@ -6,7 +6,9 @@
       <mapping pattern="gt" type="PHP" />
       <mapping pattern="gt-serve" type="PHP" />
       <mapping pattern="gt-run" type="PHP" />
+      <mapping pattern="post-install" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="8078cd755eac3561fb4ebf5da0d13bcc" type="PLAIN_TEXT" />
       <mapping pattern="bin/build" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
