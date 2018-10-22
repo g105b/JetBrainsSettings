@@ -6,6 +6,7 @@
       <option name="USE_TAB_CHARACTER" value="true" />
     </value>
   </option>
+  <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="RIGHT_MARGIN" value="80" />
   <option name="SOFT_MARGINS" value="120" />
   <PHPCodeStyleSettings>
@@ -13,6 +14,9 @@
     <option name="SPACE_BEFORE_CLOSURE_LEFT_PARENTHESIS" value="false" />
     <option name="SPACE_AFTER_COLON_IN_RETURN_TYPE" value="false" />
   </PHPCodeStyleSettings>
+  <SqlCodeStyleSettings version="1">
+    <option name="DISABLE_FORMATTING" value="true" />
+  </SqlCodeStyleSettings>
   <codeStyleSettings language="CSS">
     <indentOptions>
       <option name="INDENT_SIZE" value="8" />
@@ -49,6 +53,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
+    <option name="INDENT_CASE_FROM_SWITCH" value="false" />
     <indentOptions>
       <option name="INDENT_SIZE" value="8" />
       <option name="CONTINUATION_INDENT_SIZE" value="8" />

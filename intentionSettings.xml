@@ -1,6 +1,5 @@
 <application>
   <component name="IntentionManagerSettings">
-    <ignoreAction name="Language Injection/Inject language or reference" />
-    <ignoreAction name="Language Injection/Edit Injected Fragment" />
+    <ignoreAction name="JavaScript/Control Flow/Remove Braces" />
   </component>
 </application>
