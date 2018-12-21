@@ -3,7 +3,7 @@
     <property name="created">2018-11-04T18:42:27</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.5.0.0</property>
-    <property name="modified">2018-12-21T11:00:33</property>
+    <property name="modified">2018-12-21T11:36:05</property>
     <property name="originalScheme">Greg</property>
   </metaInfo>
   <colors>
@@ -195,6 +195,9 @@
       <value>
         <option name="FONT_TYPE" value="3" />
       </value>
+    </option>
+    <option name="DEFAULT_TAG">
+      <value />
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value />
