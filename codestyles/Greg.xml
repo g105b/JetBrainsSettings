@@ -18,7 +18,6 @@
     <option name="SPACE_AFTER_COLON_IN_RETURN_TYPE" value="false" />
   </PHPCodeStyleSettings>
   <SqlCodeStyleSettings version="2">
-    <option name="DISABLE_FORMATTING" value="true" />
     <option name="TABLE_OPENING" value="1" />
     <option name="TABLE_CONTENT" value="2" />
     <option name="TABLE_CLOSING" value="3" />
