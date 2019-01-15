@@ -43,6 +43,8 @@
   <action id="Debug" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditorChooseLookupItemCompleteStatement" />
+  <action id="EditorCodeBlockEndWithSelection" />
+  <action id="EditorCodeBlockStartWithSelection" />
   <action id="EditorCompleteStatement" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl delete" />
@@ -68,6 +70,7 @@
   <action id="ExpandRegion">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
+  <action id="ExpressionTypeInfo" />
   <action id="ExternalJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
   </action>
@@ -154,6 +157,9 @@
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="f11" />
   </action>
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="shift ctrl open_bracket" />
+  </action>
   <action id="UML.ZoomIn">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
@@ -164,6 +170,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl comma" />
   </action>
   <action id="Vcs.UpdateProject" />
+  <action id="ViewBreakpoints">
+    <keyboard-shortcut first-keystroke="shift ctrl close_bracket" />
+  </action>
   <action id="ViewSource" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
