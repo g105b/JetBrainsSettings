@@ -70,7 +70,6 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
-    <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
     <option name="CLASS_BRACE_STYLE" value="1" />
     <option name="METHOD_BRACE_STYLE" value="1" />
     <option name="ELSE_ON_NEW_LINE" value="true" />
