@@ -155,6 +155,7 @@
             <extension name="libxml" />
             <extension name="mbstring" />
             <extension name="mysqlnd" />
+            <extension name="openssl" />
             <extension name="pcre" />
             <extension name="pdo_mysql" />
             <extension name="pdo_sqlite" />
