@@ -165,7 +165,6 @@
     <ignoreAction name="XML/Convert text to CData" />
     <ignoreAction name="XML/Expand empty tag" />
     <ignoreAction name="XML/Fetch external resource" />
-    <ignoreAction name="XML/Insert namespace prefix" />
     <ignoreAction name="XML/Manually setup external resource" />
     <ignoreAction name="XML/Merge Tags" />
     <ignoreAction name="XML/Rearrange tag attributes" />
@@ -177,5 +176,6 @@
     <ignoreAction name="XSLT/Convert if to choose" />
     <ignoreAction name="XSLT/Inline xsl:attribute" />
     <ignoreAction name="XSLT/Replace with xsl:attribute" />
+    <ignoreAction name="XML/Insert namespace prefix" />
   </component>
 </application>
