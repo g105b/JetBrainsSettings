@@ -7,7 +7,6 @@
   </component>
   <component name="EditorSettings">
     <option name="SHOW_INTENTION_BULB" value="false" />
-    <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
   <component name="XmlEditorOptions">
     <option name="insertQuotesForAttributeValue" value="false" />
