@@ -124,17 +124,13 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP 7.2 Windows">
-        <phpinfo binary_type="PHP" php_cgi="C:\etc\php\7.2\php-cgi.exe" php_cli="C:\etc\php\7.2\php.exe" path_separator=";" version="7.2.14">
+        <phpinfo binary_type="PHP" php_cgi="C:\etc\php\7.2\php-cgi.exe" php_cli="C:\etc\php\7.2\php.exe" path_separator=";" version="7.2.5">
           <additional_php_ini />
           <configuration_file>C:\etc\php\7.2\php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value=".;C:\php\pear" />
           </configuration_options>
-          <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.6.1">
-              <debug_extensions />
-            </debugger_info>
-          </debuggers>
+          <debuggers />
           <loaded_extensions>
             <extension name="Core" />
             <extension name="PDO" />
@@ -148,6 +144,7 @@
             <extension name="curl" />
             <extension name="date" />
             <extension name="dom" />
+            <extension name="fileinfo" />
             <extension name="filter" />
             <extension name="hash" />
             <extension name="iconv" />
@@ -161,10 +158,11 @@
             <extension name="pdo_sqlite" />
             <extension name="readline" />
             <extension name="session" />
+            <extension name="sockets" />
+            <extension name="sqlite3" />
             <extension name="standard" />
             <extension name="tokenizer" />
             <extension name="wddx" />
-            <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlwriter" />
