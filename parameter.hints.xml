@@ -2,10 +2,12 @@
   <component name="ParameterNameHintsSettings">
     <blacklists>
       <blacklist language="TypeScript" />
+      <blacklist language="JavaScript" />
       <blacklist language="PHP">
+        <added pattern="*.contains(*)" />
+        <added pattern="(var*)" />
         <removed pattern="" />
       </blacklist>
     </blacklists>
-    <option id="php.show.names.for.all.args" value="true" />
   </component>
 </application>
