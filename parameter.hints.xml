@@ -6,6 +6,7 @@
       <blacklist language="PHP">
         <added pattern="*.contains(*)" />
         <added pattern="(var*)" />
+        <added pattern="(option, value)" />
         <removed pattern="" />
       </blacklist>
     </blacklists>
