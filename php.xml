@@ -8,7 +8,7 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="/usr/bin/php" id="8de8c1a6-5072-49d5-9eb5-9b3e50ce3a88" name="PHP 7.2 Linux" debugger_id="php.debugger.XDebug" />
-      <interpreter home="C:\etc\php\7.2\php.exe" id="ed765a75-b36f-4afd-80d3-de4cc05e51ce" name="PHP 7.2 Windows" debugger_id="php.debugger.XDebug" />
+      <interpreter home="C:\etc\php\7.2\php.exe" id="ed765a75-b36f-4afd-80d3-de4cc05e51ce" name="PHP 7.2 Windows" debugger_id="php.debugger.XDebug" debugger_extension="C:\etc\php\7.2\ext\php_xdebug-2.6.0-7.2-vc15-nts-x86_64.dll" />
       <interpreter home="C:\etc\php\7.1\php.exe" id="03d381d9-287b-4230-bf7f-c61a456a4527" name="PHP 7.1 Windows" debugger_id="php.debugger.XDebug" />
       <interpreter home="C:\etc\php\7.3\php.exe" id="41546dcf-3a0e-40ce-b256-cd2aa394b8dc" name="PHP 7.3 Windows" debugger_id="php.debugger.XDebug" />
     </interpreters>
@@ -130,7 +130,11 @@
           <configuration_options>
             <configuration_option name="include_path" value=".;C:\php\pear" />
           </configuration_options>
-          <debuggers />
+          <debuggers>
+            <debugger_info debugger="xdebug" debugger_version="2.6.0">
+              <debug_extensions />
+            </debugger_info>
+          </debuggers>
           <loaded_extensions>
             <extension name="Core" />
             <extension name="PDO" />
@@ -163,6 +167,7 @@
             <extension name="standard" />
             <extension name="tokenizer" />
             <extension name="wddx" />
+            <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlwriter" />
