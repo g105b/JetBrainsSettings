@@ -7,6 +7,7 @@
         <added pattern="*.contains(*)" />
         <added pattern="(var*)" />
         <added pattern="(option, value)" />
+        <added pattern="(command)" />
         <removed pattern="" />
       </blacklist>
     </blacklists>
