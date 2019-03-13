@@ -8,6 +8,7 @@
         <added pattern="(var*)" />
         <added pattern="(option, value)" />
         <added pattern="(command)" />
+        <added pattern="(...*)" />
         <removed pattern="" />
       </blacklist>
     </blacklists>
