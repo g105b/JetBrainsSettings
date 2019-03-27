@@ -6,6 +6,7 @@
       <mapping pattern="gt-build" type="PHP" />
       <mapping pattern="bin/serve" type="PHP" />
       <mapping pattern="gt" type="PHP" />
+      <mapping pattern="sync" type="PHP" />
       <mapping pattern="gt-serve" type="PHP" />
       <mapping pattern="gt-run" type="PHP" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
