@@ -5,6 +5,7 @@
       <mapping pattern="serve" type="PHP" />
       <mapping pattern="gt-build" type="PHP" />
       <mapping pattern="bin/serve" type="PHP" />
+      <mapping pattern="synctest" type="PHP" />
       <mapping pattern="gt" type="PHP" />
       <mapping pattern="sync" type="PHP" />
       <mapping pattern="gt-serve" type="PHP" />
