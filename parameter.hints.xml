@@ -9,8 +9,10 @@
         <added pattern="(option, value)" />
         <added pattern="(command)" />
         <added pattern="(...*)" />
+        <added pattern="(*)" />
         <removed pattern="" />
       </blacklist>
     </blacklists>
+    <option id="php.show.names.for.all.args" value="true" />
   </component>
 </application>
