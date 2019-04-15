@@ -23,6 +23,7 @@
     <option name="QUERY_IN_ONE_STRING" value="0" />
     <option name="QUERY_ALIGN_ELEMENTS" value="false" />
     <option name="QUERY_ALIGN_LINE_COMMENTS" value="false" />
+    <option name="INSERT_CONTENT" value="0" />
     <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
     <option name="SELECT_ALIGN_AS" value="false" />
     <option name="TABLE_OPENING" value="1" />
@@ -127,7 +128,6 @@
   <codeStyleSettings language="SQL">
     <indentOptions>
       <option name="INDENT_SIZE" value="8" />
-      <option name="CONTINUATION_INDENT_SIZE" value="8" />
       <option name="TAB_SIZE" value="8" />
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
