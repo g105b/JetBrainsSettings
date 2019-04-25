@@ -93,9 +93,6 @@
   <action id="Github.Open.In.Browser">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
-  <action id="GotoNextBookmark">
-    <keyboard-shortcut first-keystroke="f2" />
-  </action>
   <action id="GotoNextError" />
   <action id="GotoPreviousError" />
   <action id="GotoTest" />
@@ -123,6 +120,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
   <action id="QuickActionPopup" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
