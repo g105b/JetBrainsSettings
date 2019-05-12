@@ -9,6 +9,9 @@
     <option name="SHOW_INTENTION_BULB" value="false" />
   </component>
   <component name="XmlEditorOptions">
+    <option name="autoCloseTag" value="false" />
+    <option name="automaticallyInsertRequiredAttributes" value="false" />
+    <option name="automaticallyInsertRequiredSubTags" value="false" />
     <option name="insertQuotesForAttributeValue" value="false" />
   </component>
 </application>
