@@ -17,6 +17,7 @@
       <mapping pattern="mobile" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="8078cd755eac3561fb4ebf5da0d13bcc" type="PLAIN_TEXT" />
+      <mapping pattern="ssh" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="SingleSubmit" type="PLAIN_TEXT" />
       <mapping pattern="senderror" type="PLAIN_TEXT" />
