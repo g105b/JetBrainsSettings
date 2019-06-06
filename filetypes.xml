@@ -5,25 +5,26 @@
       <mapping pattern="build" type="PHP" />
       <mapping pattern="serve" type="PHP" />
       <mapping pattern="gt-build" type="PHP" />
-      <mapping pattern="sync" type="PHP" />
       <mapping pattern="bin/serve" type="PHP" />
-      <mapping pattern="gt" type="PHP" />
       <mapping pattern="synctest" type="PHP" />
+      <mapping pattern="gt" type="PHP" />
+      <mapping pattern="sync" type="PHP" />
       <mapping pattern="gt-serve" type="PHP" />
       <mapping pattern="gt-run" type="PHP" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="post-install" type="PLAIN_TEXT" />
+      <mapping pattern="senderror" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="mobile" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="8078cd755eac3561fb4ebf5da0d13bcc" type="PLAIN_TEXT" />
-      <mapping pattern="ssh" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="SingleSubmit" type="PLAIN_TEXT" />
-      <mapping pattern="senderror" type="PLAIN_TEXT" />
+      <mapping pattern="ssh" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="wav" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
+      <mapping ext="gql" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
     </extensionMap>
