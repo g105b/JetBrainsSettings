@@ -6,6 +6,7 @@
     <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="SHOW_INTENTION_BULB" value="false" />
   </component>
   <component name="XmlEditorOptions">
