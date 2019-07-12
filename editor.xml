@@ -1,0 +1,13 @@
+<application>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="16" />
+    <option name="FONT_FAMILY" value="Fira Code Light" />
+    <option name="LINE_SPACING" value="1.5" />
+    <option name="USE_LIGATURES" value="true" />
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="automaticallyInsertRequiredAttributes" value="false" />
+    <option name="automaticallyInsertRequiredSubTags" value="false" />
+    <option name="insertQuotesForAttributeValue" value="false" />
+  </component>
+</application>
