@@ -4,6 +4,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="webmanifest" type="JSON" />
+      <mapping ext="manifest" type="JSON5" />
       <mapping pattern="serve" type="PHP" />
       <mapping pattern="sync" type="PHP" />
       <mapping pattern="synctest" type="PHP" />
