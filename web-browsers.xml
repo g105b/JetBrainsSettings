@@ -1,5 +1,5 @@
 <application>
-  <component name="WebBrowsersConfiguration" default="first" showHover="false">
+  <component name="WebBrowsersConfiguration" default="alternative" showHover="false">
     <browser id="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" name="Chromium" family="CHROME" path="chromium-browser" />
     <browser id="3e60f9c9-21e4-4595-9aaa-cd930c4bcd26" name="Headless Chromium" family="CHROME" path="chromium-browser">
       <settings>
