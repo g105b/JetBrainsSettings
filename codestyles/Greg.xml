@@ -230,9 +230,6 @@
     <option name="POST_OPT_ALIGN" value="false" />
     <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
   </SQLiteCodeStyleSettings>
-  <Shell_Script>
-    <option name="SWITCH_CASES_INDENTED" value="true" />
-  </Shell_Script>
   <SqlCodeStyleSettings version="2">
     <option name="DISABLE_FORMATTING" value="true" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="0" />
