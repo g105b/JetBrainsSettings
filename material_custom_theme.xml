@@ -1,7 +1,7 @@
 <application>
   <component name="MaterialCustomThemeConfig">
     <option name="excludedColor" value="fdfdfdff" />
-    <option name="accentColor" value="79cb60ff" />
+    <option name="accentColor" value="25c6e8ff" />
     <option name="notificationsColor" value="dfecfeff" />
     <option name="treeSelectionColor" value="3a66d1ff" />
     <option name="highlightColor" value="cce5ffff" />
