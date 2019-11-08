@@ -359,6 +359,9 @@
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>
+  <codeStyleSettings language="Markdown">
+    <option name="SOFT_MARGINS" value="80" />
+  </codeStyleSettings>
   <codeStyleSettings language="MySQL">
     <indentOptions>
       <option name="INDENT_SIZE" value="8" />
@@ -431,6 +434,12 @@
     <indentOptions>
       <option name="INDENT_SIZE" value="8" />
       <option name="TAB_SIZE" value="8" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Shell Script">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="8" />
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>
