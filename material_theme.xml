@@ -1,11 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="isWizardShown" value="true" />
-    <option name="overrideAccentColor" value="true" />
-    <option name="statusBarTheme" value="false" />
-    <option name="accentColor" value="2979ff" />
-    <option name="selectedTheme" value="ONE_LIGHT" />
-    <option name="userId" value="-7fcb068f:16de38e7e59:-8000" />
+    <option name="selectedTheme" value="GITHUB" />
+    <option name="userId" value="-69df51ec:16e4b241630:-8000" />
     <option name="version" value="4.5.2" />
   </component>
 </application>
