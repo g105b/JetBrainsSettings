@@ -8,5 +8,8 @@
     <ignoreAction name="PHP/Convert HEREDOC/NOWDOC to string literal" />
     <ignoreAction name="PHP/Inject language using PHPDoc" />
     <ignoreAction name="Other/Flip ','" />
+    <ignoreAction name="XML/Insert namespace prefix" />
+    <ignoreAction name="XML/Manually setup external resource" />
+    <ignoreAction name="XML/Reset to default namespace" />
   </component>
 </application>
