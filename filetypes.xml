@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="entrypoint" type="Bash" />
+      <mapping pattern="generate-password" type="PHP" />
       <mapping pattern="cron" type="PHP" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
