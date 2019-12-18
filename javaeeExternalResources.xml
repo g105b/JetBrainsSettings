@@ -1,6 +1,8 @@
 <application>
   <component name="ExternalResourceManagerImpl">
     <ignored-resource url="http://earth.google.com/kml/2.1" />
+    <ignored-resource url="http://schema.org/Organization" />
+    <ignored-resource url="http://schema.org/PostalAddress" />
     <ignored-resource url="http://www.opengis.net/kml/2.2" />
   </component>
 </application>
