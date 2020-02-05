@@ -9,6 +9,7 @@
         <added pattern="(option, value)" />
         <added pattern="(command)" />
         <added pattern="(...*)" />
+        <added pattern="queryName" />
         <removed pattern="" />
       </blacklist>
     </blacklists>
