@@ -8,6 +8,7 @@
       <mapping pattern="run" type="PHP" />
       <mapping pattern="cron" type="PHP" />
       <mapping pattern="logfiles" type="PLAIN_TEXT" />
+      <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="LICENCE" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
