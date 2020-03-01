@@ -1,14 +1,15 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="entrypoint" type="Bash" />
       <mapping pattern="generate-password" type="PHP" />
       <mapping pattern="install" type="PHP" />
       <mapping pattern="run" type="PHP" />
       <mapping pattern="cron" type="PHP" />
-      <mapping pattern="logfiles" type="PLAIN_TEXT" />
       <mapping pattern=".github/workflows" type="PLAIN_TEXT" />
-      <mapping pattern="workflows" type="PLAIN_TEXT" />
+      <mapping pattern="logfiles" type="PLAIN_TEXT" />
       <mapping pattern="LICENCE" type="PLAIN_TEXT" />
+      <mapping pattern="workflows" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
@@ -20,7 +21,6 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <mapping pattern="entrypoint" type="Bash" />
     </extensionMap>
   </component>
 </application>
