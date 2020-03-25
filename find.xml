@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../data/critical-preparedness-readiness-and-response-actions-covid-10-2020-03-16-final.pdf'" />
-    <option name="defaultScopeName" value="File '.../data/critical-preparedness-readiness-and-response-actions-covid-10-2020-03-16-final.pdf'" />
-    <option name="SEARCH_SCOPE" value="File '.../data/critical-preparedness-readiness-and-response-actions-covid-10-2020-03-16-final.pdf'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
