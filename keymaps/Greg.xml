@@ -165,6 +165,10 @@
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="RunDashboard.ShowConfigurations" />
+  <action id="RunToCursor">
+    <keyboard-shortcut first-keystroke="shift alt 9" />
+    <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
+  </action>
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
