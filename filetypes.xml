@@ -15,6 +15,7 @@
       <mapping pattern="FUNDING&gt;yml" type="PLAIN_TEXT" />
       <mapping pattern="deploy_rsa" type="PLAIN_TEXT" />
       <mapping pattern="workflows" type="PLAIN_TEXT" />
+      <mapping ext="leaderboard" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
