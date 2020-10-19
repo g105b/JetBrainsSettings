@@ -13,5 +13,6 @@
         <removed pattern="" />
       </blacklist>
     </blacklists>
+    <option id="sql.show.column.names.in.select" value="true" />
   </component>
 </application>
