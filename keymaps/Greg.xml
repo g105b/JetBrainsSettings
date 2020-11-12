@@ -2,6 +2,10 @@
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="ctrl alt t" />
+  </action>
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
   <action id="Back">
@@ -170,6 +174,7 @@
     <keyboard-shortcut first-keystroke="shift alt 9" />
     <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
   </action>
+  <action id="ServiceView.GroupByContributor" />
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
@@ -188,6 +193,7 @@
   <action id="Stop">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
+  <action id="SurroundWith" />
   <action id="Switcher" />
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="shift ctrl quote" />
