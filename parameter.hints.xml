@@ -8,8 +8,8 @@
         <added pattern="(var*)" />
         <added pattern="(option, value)" />
         <added pattern="(command)" />
-        <added pattern="(...*)" />
         <added pattern="queryName" />
+        <added pattern="*(args)" />
         <removed pattern="" />
       </blacklist>
     </blacklists>
