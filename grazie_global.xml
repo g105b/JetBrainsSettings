@@ -10,6 +10,8 @@
         <option name="suppressed">
           <set>
             <option value="score is generated" />
+            <option value="class that is" />
+            <option value="work that calculates" />
           </set>
         </option>
       </SuppressingContext>
