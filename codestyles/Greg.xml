@@ -12,8 +12,7 @@
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_LOWER_CASE" value="true" />
   </CssCodeStyleSettings>
-  <DB2CodeStyleSettings version="2">
-    <option name="USE_GENERIC_STYLE" value="true" />
+  <DB2CodeStyleSettings version="5">
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="0" />
     <option name="QUERY_EL_LINE" value="0" />
     <option name="QUERY_IN_ONE_STRING" value="0" />
@@ -36,9 +35,9 @@
     <option name="IMP_DECLARE_ALIGN_EQ" value="false" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
     <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
+    <option name="USE_GENERIC_STYLE" value="true" />
   </DB2CodeStyleSettings>
-  <DerbyCodeStyleSettings version="2">
-    <option name="USE_GENERIC_STYLE" value="true" />
+  <DerbyCodeStyleSettings version="5">
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="0" />
     <option name="QUERY_EL_LINE" value="0" />
     <option name="QUERY_IN_ONE_STRING" value="0" />
@@ -61,9 +60,9 @@
     <option name="IMP_DECLARE_ALIGN_EQ" value="false" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
     <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
+    <option name="USE_GENERIC_STYLE" value="true" />
   </DerbyCodeStyleSettings>
-  <H2CodeStyleSettings version="2">
-    <option name="USE_GENERIC_STYLE" value="true" />
+  <H2CodeStyleSettings version="5">
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="0" />
     <option name="QUERY_EL_LINE" value="0" />
     <option name="QUERY_IN_ONE_STRING" value="0" />
@@ -82,9 +81,9 @@
     <option name="POST_OPT_INDENT" value="false" />
     <option name="POST_OPT_ALIGN" value="false" />
     <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
+    <option name="USE_GENERIC_STYLE" value="true" />
   </H2CodeStyleSettings>
-  <HSQLCodeStyleSettings version="2">
-    <option name="USE_GENERIC_STYLE" value="true" />
+  <HSQLCodeStyleSettings version="5">
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="0" />
     <option name="QUERY_EL_LINE" value="0" />
     <option name="QUERY_IN_ONE_STRING" value="0" />
@@ -103,6 +102,7 @@
     <option name="POST_OPT_INDENT" value="false" />
     <option name="POST_OPT_ALIGN" value="false" />
     <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
+    <option name="USE_GENERIC_STYLE" value="true" />
   </HSQLCodeStyleSettings>
   <HTMLCodeStyleSettings>
     <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
@@ -111,8 +111,7 @@
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
     <option name="SPACE_BEFORE_ASYNC_ARROW_LPAREN" value="false" />
   </JSCodeStyleSettings>
-  <MSSQLCodeStyleSettings version="2">
-    <option name="USE_GENERIC_STYLE" value="true" />
+  <MSSQLCodeStyleSettings version="5">
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="0" />
     <option name="QUERY_EL_LINE" value="0" />
     <option name="QUERY_IN_ONE_STRING" value="0" />
@@ -135,9 +134,9 @@
     <option name="IMP_DECLARE_ALIGN_EQ" value="false" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
     <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
+    <option name="USE_GENERIC_STYLE" value="true" />
   </MSSQLCodeStyleSettings>
-  <MySQLCodeStyleSettings version="2">
-    <option name="USE_GENERIC_STYLE" value="true" />
+  <MySQLCodeStyleSettings version="5">
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="0" />
     <option name="QUERY_EL_LINE" value="0" />
     <option name="QUERY_IN_ONE_STRING" value="0" />
@@ -156,9 +155,9 @@
     <option name="POST_OPT_INDENT" value="false" />
     <option name="POST_OPT_ALIGN" value="false" />
     <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
-  </MySQLCodeStyleSettings>
-  <OracleCodeStyleSettings version="2">
     <option name="USE_GENERIC_STYLE" value="true" />
+  </MySQLCodeStyleSettings>
+  <OracleCodeStyleSettings version="5">
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="0" />
     <option name="QUERY_EL_LINE" value="0" />
     <option name="QUERY_IN_ONE_STRING" value="0" />
@@ -181,6 +180,7 @@
     <option name="IMP_DECLARE_ALIGN_EQ" value="false" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
     <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
+    <option name="USE_GENERIC_STYLE" value="true" />
   </OracleCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="VARIABLE_NAMING_STYLE" value="CAMEL_CASE" />
@@ -188,8 +188,7 @@
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
     <option name="SPACE_AFTER_COLON_IN_RETURN_TYPE" value="false" />
   </PHPCodeStyleSettings>
-  <PostgresCodeStyleSettings version="2">
-    <option name="USE_GENERIC_STYLE" value="true" />
+  <PostgresCodeStyleSettings version="5">
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="0" />
     <option name="QUERY_EL_LINE" value="0" />
     <option name="QUERY_IN_ONE_STRING" value="0" />
@@ -212,9 +211,9 @@
     <option name="IMP_DECLARE_ALIGN_EQ" value="false" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
     <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
-  </PostgresCodeStyleSettings>
-  <SQLiteCodeStyleSettings version="2">
     <option name="USE_GENERIC_STYLE" value="true" />
+  </PostgresCodeStyleSettings>
+  <SQLiteCodeStyleSettings version="5">
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="0" />
     <option name="QUERY_EL_LINE" value="0" />
     <option name="QUERY_IN_ONE_STRING" value="0" />
@@ -233,8 +232,9 @@
     <option name="POST_OPT_INDENT" value="false" />
     <option name="POST_OPT_ALIGN" value="false" />
     <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
+    <option name="USE_GENERIC_STYLE" value="true" />
   </SQLiteCodeStyleSettings>
-  <SqlCodeStyleSettings version="2">
+  <SqlCodeStyleSettings version="5">
     <option name="DISABLE_FORMATTING" value="true" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="0" />
     <option name="QUERY_EL_LINE" value="0" />
@@ -266,8 +266,7 @@
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
     <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
   </SqlCodeStyleSettings>
-  <SybaseCodeStyleSettings version="2">
-    <option name="USE_GENERIC_STYLE" value="true" />
+  <SybaseCodeStyleSettings version="5">
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="0" />
     <option name="QUERY_EL_LINE" value="0" />
     <option name="QUERY_IN_ONE_STRING" value="0" />
@@ -290,6 +289,7 @@
     <option name="IMP_DECLARE_ALIGN_EQ" value="false" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
     <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
+    <option name="USE_GENERIC_STYLE" value="true" />
   </SybaseCodeStyleSettings>
   <codeStyleSettings language="CSS">
     <indentOptions>
