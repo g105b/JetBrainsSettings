@@ -1,0 +1,21 @@
+<application>
+  <component name="GraziConfig">
+    <option name="userDisabledRules">
+      <set>
+        <option value="PASSIVE_VOICE" />
+      </set>
+    </option>
+    <option name="suppressingContext">
+      <SuppressingContext>
+        <option name="suppressed">
+          <set>
+            <option value="score is generated" />
+            <option value="class that is" />
+            <option value="work that calculates" />
+            <option value="in the web" />
+          </set>
+        </option>
+      </SuppressingContext>
+    </option>
+  </component>
+</application>
