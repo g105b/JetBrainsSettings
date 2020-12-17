@@ -13,6 +13,8 @@
             <option value="class that is" />
             <option value="work that calculates" />
             <option value="in the web" />
+            <option value="required PHP version to" />
+            <option value="Alpine CLI build of" />
           </set>
         </option>
       </SuppressingContext>
