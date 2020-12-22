@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="auth" type="AUTO_DETECTED" />
       <mapping pattern="install" type="PHP" />
       <mapping pattern="cron" type="PHP" />
       <mapping pattern="generate-password" type="PHP" />
