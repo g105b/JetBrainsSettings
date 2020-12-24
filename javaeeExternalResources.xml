@@ -4,5 +4,6 @@
     <ignored-resource url="http://schema.org/Organization" />
     <ignored-resource url="http://schema.org/PostalAddress" />
     <ignored-resource url="http://www.opengis.net/kml/2.2" />
+    <ignored-resource url="https://schema.phpunit.de/9.3/phpunit.xsd" />
   </component>
 </application>
