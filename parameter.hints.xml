@@ -1,0 +1,18 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript" />
+      <blacklist language="JavaScript" />
+      <blacklist language="PHP">
+        <added pattern="*.contains(*)" />
+        <added pattern="(var*)" />
+        <added pattern="(option, value)" />
+        <added pattern="(command)" />
+        <added pattern="queryName" />
+        <added pattern="*(args)" />
+        <removed pattern="" />
+      </blacklist>
+    </blacklists>
+    <option id="sql.show.column.names.in.select" value="true" />
+  </component>
+</application>
