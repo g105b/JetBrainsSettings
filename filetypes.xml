@@ -8,6 +8,7 @@
       <mapping pattern="cron" type="PHP" />
       <mapping pattern="generate-password" type="PHP" />
       <mapping pattern="run" type="PHP" />
+      <mapping pattern="send-emails" type="PHP" />
       <mapping pattern="import-csv" type="PHP" />
       <mapping pattern="american-english" type="PHP" />
       <mapping pattern="entrypoint" type="PLAIN_TEXT" />
