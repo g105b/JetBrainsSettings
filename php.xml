@@ -1,7 +1,11 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="846a3a88-2dcf-46ee-8aaa-c12c54f0b8cf" name="PHP 8.0" home="/usr/bin/php" debugger_id="php.debugger.XDebug" debugger_extension="/usr/lib/php/20200930/xdebug.so" />
+      <interpreter id="846a3a88-2dcf-46ee-8aaa-c12c54f0b8cf" name="PHP 8.0" home="/usr/bin/php" debugger_id="php.debugger.XDebug" debugger_extension="/usr/lib/php/20200930/xdebug.so">
+        <configuration_options>
+          <configuration_option name="xdebug.mode" value="coverage" />
+        </configuration_options>
+      </interpreter>
       <interpreter id="60cf2c4a-799d-4657-af32-ec479d888023" name="PHP 7.4" home="/usr/bin/php7.4" debugger_id="php.debugger.XDebug" debugger_extension="/usr/lib/php/20190902/xdebug.so" />
     </interpreters>
   </component>
