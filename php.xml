@@ -3,7 +3,7 @@
     <interpreters>
       <interpreter id="846a3a88-2dcf-46ee-8aaa-c12c54f0b8cf" name="PHP" home="/usr/bin/php" debugger_id="php.debugger.XDebug">
         <configuration_options>
-          <configuration_option name="xdebug.mode" value="debug" />
+          <configuration_option name="xdebug.mode" value="debug,coverage" />
         </configuration_options>
       </interpreter>
     </interpreters>
