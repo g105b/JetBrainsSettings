@@ -2,10 +2,14 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="auth" type="AUTO_DETECTED" />
+      <mapping pattern="import" type="AUTO_DETECTED" />
+      <mapping pattern="bin/import" type="AUTO_DETECTED" />
       <mapping pattern="install" type="PHP" />
       <mapping pattern="cron" type="PHP" />
       <mapping pattern="generate-password" type="PHP" />
       <mapping pattern="run" type="PHP" />
+      <mapping pattern="send-emails" type="PHP" />
+      <mapping pattern="import-csv" type="PHP" />
       <mapping pattern="american-english" type="PHP" />
       <mapping pattern="entrypoint" type="PLAIN_TEXT" />
       <mapping pattern="LICENCE" type="PLAIN_TEXT" />

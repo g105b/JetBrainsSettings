@@ -10,9 +10,11 @@
         <added pattern="(command)" />
         <added pattern="queryName" />
         <added pattern="*(args)" />
+        <added pattern="(name)" />
         <removed pattern="" />
       </blacklist>
     </blacklists>
+    <option id="sql.show.column.names.for.asterisk" value="true" />
     <option id="sql.show.column.names.in.select" value="true" />
   </component>
 </application>

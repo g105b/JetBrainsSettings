@@ -137,6 +137,9 @@
   </action>
   <action id="Images.ShowThumbnails" />
   <action id="IntroduceParameter" />
+  <action id="MainMenu">
+    <keyboard-shortcut first-keystroke="ctrl escape" />
+  </action>
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
