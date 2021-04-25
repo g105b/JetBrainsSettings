@@ -11,6 +11,7 @@
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="shift ctrl 9" />
+    <keyboard-shortcut first-keystroke="alt left" />
   </action>
   <action id="ChangesView.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
@@ -56,6 +57,8 @@
   <action id="Debug" />
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.FocusOppositePaneAndScroll" />
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditorChooseLookupItemCompleteStatement" />
@@ -99,6 +102,7 @@
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="shift ctrl 0" />
+    <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift ctrl b" />
