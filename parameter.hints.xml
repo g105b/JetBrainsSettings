@@ -12,6 +12,7 @@
         <added pattern="*(args)" />
         <added pattern="(name)" />
         <added pattern="\microtime(*)" />
+        <added pattern="*.getAttribute(attributeName)" />
         <removed pattern="" />
       </blacklist>
     </blacklists>
