@@ -13,6 +13,7 @@
         <added pattern="(name)" />
         <added pattern="\microtime(*)" />
         <added pattern="*.getAttribute(attributeName)" />
+        <added pattern="(expectedRegex)" />
         <removed pattern="" />
       </blacklist>
     </blacklists>
