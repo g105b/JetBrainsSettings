@@ -9,16 +9,19 @@
       <SuppressingContext>
         <option name="suppressed">
           <set>
-            <option value="Alpine CLI build of" />
-            <option value="Memory limit for" />
-            <option value="class that is" />
-            <option value="floating point" />
-            <option value="in the web" />
             <option value="path (with pattern matching" />
-            <option value="producing something" />
-            <option value="required PHP version to" />
+            <option value="class that is" />
             <option value="score is generated" />
             <option value="work that calculates" />
+            <option value="Memory limit for" />
+            <option value="required PHP version to" />
+            <option value="Alpine CLI build of" />
+            <option value="in the web" />
+            <option value="floating point" />
+            <option value="producing something" />
+            <option value="brood of Brimstones were" />
+            <option value="record breaking" />
+            <option value="foodplant - bird" />
           </set>
         </option>
       </SuppressingContext>
