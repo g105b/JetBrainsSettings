@@ -13,11 +13,11 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="$USER_HOME$/.nvm/versions/node/v14.16.1/bin/sass" />
+      <option name="program" value="sass" />
       <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
-      <option name="trackOnlyRoot" value="false" />
-      <option name="workingDir" value="$USER_HOME$/Code/g105b/h4b" />
+      <option name="trackOnlyRoot" value="true" />
+      <option name="workingDir" value="$USER_HOME$/Code/etc/todo" />
       <envs />
     </TaskOptions>
   </component>
