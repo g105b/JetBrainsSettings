@@ -2,29 +2,28 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="auth" type="AUTO_DETECTED" />
-      <mapping pattern="import" type="AUTO_DETECTED" />
       <mapping pattern="bin/import" type="AUTO_DETECTED" />
-      <mapping pattern="install" type="PHP" />
-      <mapping pattern="cron" type="PHP" />
-      <mapping pattern="generate-password" type="PHP" />
+      <mapping pattern="import" type="AUTO_DETECTED" />
       <mapping pattern="run" type="PHP" />
-      <mapping pattern="import-csv" type="PHP" />
+      <mapping pattern="cron" type="PHP" />
       <mapping pattern="send-emails" type="PHP" />
+      <mapping pattern="install" type="PHP" />
+      <mapping pattern="import-csv" type="PHP" />
       <mapping pattern="american-english" type="PHP" />
-      <mapping pattern="entrypoint" type="PLAIN_TEXT" />
+      <mapping pattern="generate-password" type="PHP" />
       <mapping pattern="LICENCE" type="PLAIN_TEXT" />
-      <mapping pattern="keys/deploy_rsa" type="PLAIN_TEXT" />
-      <mapping pattern="logfiles" type="PLAIN_TEXT" />
-      <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern=".github/workflows" type="PLAIN_TEXT" />
+      <mapping pattern="crontab" type="PLAIN_TEXT" />
+      <mapping pattern="workflows" type="PLAIN_TEXT" />
+      <mapping pattern="logfiles" type="PLAIN_TEXT" />
+      <mapping pattern="keys/deploy_rsa" type="PLAIN_TEXT" />
       <mapping pattern="FUNDING&gt;yml" type="PLAIN_TEXT" />
       <mapping pattern="deploy_rsa" type="PLAIN_TEXT" />
-      <mapping pattern="workflows" type="PLAIN_TEXT" />
       <mapping ext="leaderboard" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="switch-phpunit-version" type="Shell Script" />
       <mapping pattern="switch-composer-version" type="Shell Script" />
+      <mapping pattern="switch-phpunit-version" type="Shell Script" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
