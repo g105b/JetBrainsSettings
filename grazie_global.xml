@@ -2,7 +2,7 @@
   <component name="GraziConfig">
     <option name="userDisabledRules">
       <set>
-        <option value="PASSIVE_VOICE" />
+        <option value="LanguageTool.EN.PASSIVE_VOICE" />
       </set>
     </option>
     <option name="suppressingContext">
@@ -18,11 +18,13 @@
             <option value="path (with pattern matching" />
             <option value="score is generated" />
             <option value="Memory limit for" />
+            <option value="hand craft" />
             <option value="Alpine CLI build of" />
             <option value="in the web" />
             <option value="floating point" />
             <option value="producing something" />
-            <option value="hand craft" />
+            <option value="decision making" />
+            <option value="an nginx" />
           </set>
         </option>
       </SuppressingContext>
