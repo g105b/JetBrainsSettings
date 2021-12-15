@@ -398,6 +398,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Markdown">
+    <option name="RIGHT_MARGIN" value="0" />
     <option name="WRAP_ON_TYPING" value="0" />
     <option name="SOFT_MARGINS" value="10" />
     <indentOptions>
