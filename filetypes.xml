@@ -4,6 +4,7 @@
       <mapping pattern="auth" type="AUTO_DETECTED" />
       <mapping pattern="bin/import" type="AUTO_DETECTED" />
       <mapping pattern="import" type="AUTO_DETECTED" />
+      <mapping pattern="mailing-list" type="AUTO_DETECTED" />
       <mapping pattern="matrix-list" type="AUTO_DETECTED" />
       <mapping pattern="run" type="PHP" />
       <mapping pattern="cron" type="PHP" />
