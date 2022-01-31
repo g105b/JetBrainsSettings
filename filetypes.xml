@@ -14,6 +14,7 @@
       <mapping pattern="import-csv" type="PHP" />
       <mapping pattern="american-english" type="PHP" />
       <mapping pattern="generate-password" type="PHP" />
+      <mapping pattern="cron/send-emails" type="PHP" />
       <mapping pattern="LICENCE" type="PLAIN_TEXT" />
       <mapping pattern=".github/workflows" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
