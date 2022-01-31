@@ -27,6 +27,7 @@
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping pattern="switch-composer-version" type="Shell Script" />
+      <mapping pattern="start-server" type="Shell Script" />
       <mapping pattern="switch-phpunit-version" type="Shell Script" />
       <mapping ext="pwml" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
