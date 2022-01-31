@@ -7,6 +7,7 @@
       <mapping pattern="mailing-list" type="AUTO_DETECTED" />
       <mapping pattern="matrix-list" type="AUTO_DETECTED" />
       <mapping pattern="run" type="PHP" />
+      <mapping pattern="get-ini" type="PHP" />
       <mapping pattern="cron" type="PHP" />
       <mapping pattern="send-emails" type="PHP" />
       <mapping pattern="install" type="PHP" />
