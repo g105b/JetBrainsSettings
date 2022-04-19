@@ -15,6 +15,7 @@
         <added pattern="*.getAttribute(attributeName)" />
         <added pattern="(expectedRegex)" />
         <added pattern="(columnName)" />
+        <added pattern="(message, *)" />
         <removed pattern="" />
       </blacklist>
     </blacklists>
