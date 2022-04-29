@@ -7,6 +7,7 @@
       <mapping pattern="import" type="AUTO_DETECTED" />
       <mapping pattern="mailing-list" type="AUTO_DETECTED" />
       <mapping pattern="matrix-list" type="AUTO_DETECTED" />
+      <mapping ext="manifest" type="JSON" />
       <mapping pattern="run" type="PHP" />
       <mapping pattern="get-ini" type="PHP" />
       <mapping pattern="cron" type="PHP" />
@@ -38,6 +39,7 @@
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="manifest" approved="true" type="JavaScript" />
       <removed_mapping ext="service" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <mapping pattern="entrypoint" type="Bash" />
