@@ -1,5 +1,10 @@
 <application>
   <component name="GraziConfig">
+    <option name="enabledLanguages">
+      <set>
+        <option value="English (GB)" />
+      </set>
+    </option>
     <option name="userDisabledRules">
       <set>
         <option value="LanguageTool.EN.PASSIVE_VOICE" />
@@ -9,30 +14,30 @@
       <SuppressingContext>
         <option name="suppressed">
           <set>
-            <option value="through a systems medicine lens" />
-            <option value="brood of Brimstones were" />
-            <option value="class that is" />
-            <option value="work that calculates" />
-            <option value="required PHP version to" />
-            <option value="record breaking" />
-            <option value="foodplant - bird" />
-            <option value="value pair of" />
-            <option value="little bit" />
-            <option value="Persomic medical symptoms questionnaire to" />
-            <option value="chosen glazing" />
-            <option value="path (with pattern matching" />
-            <option value="allow us to bespoke" />
-            <option value="when the systems analysis app" />
-            <option value="score is generated" />
-            <option value="Memory limit for" />
-            <option value="decision making" />
-            <option value="hand craft" />
             <option value="Alpine CLI build of" />
-            <option value="in the web" />
-            <option value="floating point" />
-            <option value="producing something" />
-            <option value="an nginx" />
+            <option value="Memory limit for" />
+            <option value="Persomic medical symptoms questionnaire to" />
             <option value="Use full" />
+            <option value="allow us to bespoke" />
+            <option value="an nginx" />
+            <option value="brood of Brimstones were" />
+            <option value="chosen glazing" />
+            <option value="class that is" />
+            <option value="decision making" />
+            <option value="floating point" />
+            <option value="foodplant - bird" />
+            <option value="hand craft" />
+            <option value="in the web" />
+            <option value="little bit" />
+            <option value="path (with pattern matching" />
+            <option value="producing something" />
+            <option value="record breaking" />
+            <option value="required PHP version to" />
+            <option value="score is generated" />
+            <option value="through a systems medicine lens" />
+            <option value="value pair of" />
+            <option value="when the systems analysis app" />
+            <option value="work that calculates" />
           </set>
         </option>
       </SuppressingContext>
