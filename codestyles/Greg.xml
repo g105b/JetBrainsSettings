@@ -208,6 +208,7 @@
     <option name="SPACE_BEFORE_CLOSURE_LEFT_PARENTHESIS" value="false" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
     <option name="SPACE_AFTER_COLON_IN_RETURN_TYPE" value="false" />
+    <option name="SPACE_AFTER_COLON_IN_ENUM_BACKED_TYPE" value="false" />
   </PHPCodeStyleSettings>
   <PostgresCodeStyleSettings version="6">
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="0" />
