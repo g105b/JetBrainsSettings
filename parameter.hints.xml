@@ -16,6 +16,7 @@
         <added pattern="(expectedRegex)" />
         <added pattern="(columnName)" />
         <added pattern="(message, *)" />
+        <added pattern="(key)" />
         <removed pattern="" />
       </blacklist>
     </blacklists>
