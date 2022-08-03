@@ -30,4 +30,7 @@
   <component name="XmlEditorOptions">
     <option name="insertQuotesForAttributeValue" value="false" />
   </component>
+  <component name="XmlFoldingSettings">
+    <option name="COLLAPSE_XML_TAGS" value="true" />
+  </component>
 </application>
