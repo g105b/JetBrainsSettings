@@ -5,7 +5,7 @@
   <component name="CodeInsightSettings">
     <option name="JAVADOC_STUB_ON_ENTER" value="false" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings" profile="Greg">
+  <component name="DaemonCodeAnalyzerSettings">
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="EditorSettings">
