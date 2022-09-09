@@ -323,6 +323,7 @@
             <option value="score is generated" />
             <option value="Memory limit for" />
             <option value="hand craft" />
+            <option value="type of" />
             <option value="Alpine CLI build of" />
             <option value="to may" />
             <option value="relative to" />
@@ -342,7 +343,7 @@
             <option value="an nginx" />
             <option value="floating point" />
             <option value="producing something" />
-            <option value="type of" />
+            <option value="assistance" />
           </set>
         </option>
       </SuppressingContext>
