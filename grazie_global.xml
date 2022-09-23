@@ -325,6 +325,7 @@
             <option value="Memory limit for" />
             <option value="hand craft" />
             <option value="type of" />
+            <option value="number of" />
             <option value="Alpine CLI build of" />
             <option value="to may" />
             <option value="relative to" />
@@ -344,7 +345,7 @@
             <option value="an nginx" />
             <option value="floating point" />
             <option value="producing something" />
-            <option value="number of" />
+            <option value="one page request" />
           </set>
         </option>
       </SuppressingContext>
