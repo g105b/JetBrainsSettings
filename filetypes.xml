@@ -27,12 +27,12 @@
       <mapping pattern="keys/deploy_rsa" type="PLAIN_TEXT" />
       <mapping pattern="FUNDING&gt;yml" type="PLAIN_TEXT" />
       <mapping pattern="deploy_rsa" type="PLAIN_TEXT" />
-      <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="leaderboard" type="PLAIN_TEXT" />
-      <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="smarty" type="PLAIN_TEXT" />
+      <mapping ext="neon" type="PLAIN_TEXT" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping pattern="switch-composer-version" type="Shell Script" />
       <mapping pattern="start-server" type="Shell Script" />
       <mapping pattern="switch-phpunit-version" type="Shell Script" />
