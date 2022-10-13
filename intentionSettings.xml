@@ -1,0 +1,7 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="XML/Remove attribute" />
+    <ignoreAction name="XML/Remove tag" />
+    <ignoreAction name="XML/Merge tags" />
+  </component>
+</application>

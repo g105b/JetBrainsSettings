@@ -1,0 +1,26 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript" />
+      <blacklist language="JavaScript" />
+      <blacklist language="PHP">
+        <added pattern="*.contains(*)" />
+        <added pattern="(var*)" />
+        <added pattern="(option, value)" />
+        <added pattern="(command)" />
+        <added pattern="queryName" />
+        <added pattern="*(args)" />
+        <added pattern="(name)" />
+        <added pattern="\microtime(*)" />
+        <added pattern="*.getAttribute(attributeName)" />
+        <added pattern="(expectedRegex)" />
+        <added pattern="(columnName)" />
+        <added pattern="(message, *)" />
+        <added pattern="(key)" />
+        <removed pattern="" />
+      </blacklist>
+    </blacklists>
+    <option id="sql.show.column.names.for.asterisk" value="true" />
+    <option id="sql.show.column.names.in.select" value="true" />
+  </component>
+</application>
