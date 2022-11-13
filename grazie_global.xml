@@ -312,6 +312,7 @@
         <option name="suppressed">
           <set>
             <option value="through a systems medicine lens" />
+            <option value="snap install core" />
             <option value="accurate" />
             <option value="required PHP version to" />
             <option value="clearly" />
@@ -349,7 +350,8 @@
             <option value="an nginx" />
             <option value="floating point" />
             <option value="producing something" />
-            <option value="snap install core" />
+            <option value="There is" />
+            <option value="extremely" />
           </set>
         </option>
       </SuppressingContext>
