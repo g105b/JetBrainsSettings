@@ -8,6 +8,7 @@
       <mapping pattern="mailing-list" type="AUTO_DETECTED" />
       <mapping pattern="stripe-products" type="AUTO_DETECTED" />
       <mapping pattern="matrix-list" type="AUTO_DETECTED" />
+      <mapping pattern="access-card-appform" type="AUTO_DETECTED" />
       <mapping ext="manifest" type="JSON" />
       <mapping pattern="run" type="PHP" />
       <mapping pattern="get-ini" type="PHP" />
