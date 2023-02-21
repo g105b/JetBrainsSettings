@@ -6,9 +6,13 @@
           <option name="url" value="git@github.com:BrightFlair/www.parkvisionnottingham.co.uk" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:PhpGt/DomTemplate" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Code/BrightFlair" />
+    <option name="cloneParentDir" value="C:\Users\gregb\Code\PhpGt" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
