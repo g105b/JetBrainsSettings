@@ -1,7 +1,11 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="2b522b9c-f1d9-481f-865d-c0674178f6f6" name="PHP 8.1 (Windows)" home="C:\php\8.1\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="2b522b9c-f1d9-481f-865d-c0674178f6f6" name="PHP 8.1 (Windows)" home="C:\php\8.1\php.exe" debugger_id="php.debugger.XDebug" debugger_extension="C:\php\8.1\ext\php_xdebug.dll">
+        <configuration_options>
+          <configuration_option name="xdebug.mode" value="debug,coverage,profile" />
+        </configuration_options>
+      </interpreter>
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
@@ -13,7 +17,11 @@
           <configuration_options>
             <configuration_option name="include_path" value=".;C:\php\pear" />
           </configuration_options>
-          <debuggers />
+          <debuggers>
+            <debugger_info debugger="xdebug" debugger_version="3.2.0">
+              <debug_extensions />
+            </debugger_info>
+          </debuggers>
           <loaded_extensions>
             <extension name="Core" />
             <extension name="PDO" />
@@ -40,6 +48,7 @@
             <extension name="session" />
             <extension name="standard" />
             <extension name="tokenizer" />
+            <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlwriter" />
